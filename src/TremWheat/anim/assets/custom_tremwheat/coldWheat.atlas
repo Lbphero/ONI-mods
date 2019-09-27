@@ -1,0 +1,139 @@
+
+coldWheat.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+place
+  rotate: false
+  xy: 2, 374
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: 0
+plant
+  rotate: false
+  xy: 104, 426
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: 2
+plant
+  rotate: false
+  xy: 2, 166
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: 7
+plant
+  rotate: false
+  xy: 2, 72
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: 3
+plant
+  rotate: false
+  xy: 216, 438
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: 0
+plant
+  rotate: false
+  xy: 274, 438
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: 5
+plant
+  rotate: false
+  xy: 390, 434
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: 1
+plant
+  rotate: false
+  xy: 442, 434
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: 6
+plant
+  rotate: false
+  xy: 84, 280
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: 8
+plant
+  rotate: false
+  xy: 48, 2
+  size: 36, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: 4
+plant
+  rotate: false
+  xy: 86, 2
+  size: 36, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: 9
+plant
+  rotate: false
+  xy: 100, 80
+  size: 36, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: 10
+plant
+  rotate: false
+  xy: 124, 2
+  size: 36, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: 11
+ui
+  rotate: false
+  xy: 2, 252
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: 0
+wilted
+  rotate: false
+  xy: 160, 426
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: 2
+wilted
+  rotate: false
+  xy: 332, 438
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: 0
+wilted
+  rotate: false
+  xy: 58, 158
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: 3
+wilted
+  rotate: false
+  xy: 48, 80
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: 1
+wilted
+  rotate: false
+  xy: 104, 202
+  size: 36, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: 4
